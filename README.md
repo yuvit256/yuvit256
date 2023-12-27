@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuval Musseri</h1>
-<h3 align="center">A 2-nd B.Sc Computer-Science student at Ariel University.</h3>
+<h3 align="center">A 3-rd B.Sc Computer-Science student at Ariel University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvit256&label=Profile%20views&color=0e75b6&style=flat" alt="yuvit256" /> </p>
 
